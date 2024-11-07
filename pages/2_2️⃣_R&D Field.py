@@ -20,7 +20,7 @@ st.write("""R&D expenditures in all **Science** fields was reaching 76.2 billion
          R&D expenditures in two life sciences subfields, health sciences (31.9 billion total) and biological and biomedical sciences (18.2 billion total), in FY 2022.(pie chart below)""")
 @st.cache_data
 def load_data():
-    df=pd.read_csv("C:/Users/shuail/VScode/HERD-app/Sunburs.csv")
+    df=pd.read_csv("Sunburs.csv")
     return df
 Sunburs=load_data()
 #st.write(Sunburs)
