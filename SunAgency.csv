@@ -1,0 +1,12 @@
+﻿Year,source,source1,Expenditures,color
+2022,State and local government,,4907199,px.colors.qualitative.Set1[2]
+2022,Institution funds,,24492663,px.colors.qualitative.Set1[1]
+2022,Business,,5701656,px.colors.qualitative.Set1[3]
+2022,All other sources,,2633387,px.colors.qualitative.Set1[0]
+2022,Federal government,HHS,30288941,"rgb(102, 0, 0)"
+2022,Federal government,DOD,7978816,"rgb(153, 0, 0)"
+2022,Federal government,NSF,6035698,"rgb(204, 0, 0)"
+2022,Federal government,Other,3634675,"rgb(255, 0, 0)"
+2022,Federal government,DOE,2488278,"rgb(255, 51, 51)"
+2022,Federal government,NASA,2044072,"rgb(255, 102, 102)"
+2022,Federal government,USDA,1500988,"rgb(255, 153, 153)"

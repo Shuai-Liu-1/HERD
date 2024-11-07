@@ -1,0 +1,421 @@
+,Year,source,Expenditures,Percentage
+0,1953,All R&D expenditures,0.3,100
+1,1954,All R&D expenditures,0.3,100
+2,1955,All R&D expenditures,0.3,100
+3,1956,All R&D expenditures,0.4,100
+4,1957,All R&D expenditures,0.4,100
+5,1958,All R&D expenditures,0.5,100
+6,1959,All R&D expenditures,0.5,100
+7,1960,All R&D expenditures,0.6,100
+8,1961,All R&D expenditures,0.8,100
+9,1962,All R&D expenditures,0.9,100
+10,1963,All R&D expenditures,1.1,100
+11,1964,All R&D expenditures,1.3,100
+12,1965,All R&D expenditures,1.5,100
+13,1966,All R&D expenditures,1.7,100
+14,1967,All R&D expenditures,1.9,100
+15,1968,All R&D expenditures,2.1,100
+16,1969,All R&D expenditures,2.2,100
+17,1970,All R&D expenditures,2.3,100
+18,1971,All R&D expenditures,2.5,100
+19,1972,All R&D expenditures,2.6,100
+20,1973,All R&D expenditures,2.9,100
+21,1974,All R&D expenditures,3.0,100
+22,1975,All R&D expenditures,3.4,100
+23,1976,All R&D expenditures,3.7,100
+24,1977,All R&D expenditures,4.1,100
+25,1978,All R&D expenditures,4.6,100
+26,1979,All R&D expenditures,5.4,100
+27,1980,All R&D expenditures,6.1,100
+28,1981,All R&D expenditures,6.8,100
+29,1982,All R&D expenditures,7.3,100
+30,1983,All R&D expenditures,7.9,100
+31,1984,All R&D expenditures,8.6,100
+32,1985,All R&D expenditures,9.7,100
+33,1986,All R&D expenditures,10.9,100
+34,1987,All R&D expenditures,12.2,100
+35,1988,All R&D expenditures,13.5,100
+36,1989,All R&D expenditures,15.0,100
+37,1990,All R&D expenditures,16.3,100
+38,1991,All R&D expenditures,17.6,100
+39,1992,All R&D expenditures,18.8,100
+40,1993,All R&D expenditures,20.0,100
+41,1994,All R&D expenditures,21.0,100
+42,1995,All R&D expenditures,22.2,100
+43,1996,All R&D expenditures,23.1,100
+44,1997,All R&D expenditures,24.4,100
+45,1998,All R&D expenditures,25.9,100
+46,1999,All R&D expenditures,27.5,100
+47,2000,All R&D expenditures,30.1,100
+48,2001,All R&D expenditures,32.8,100
+49,2002,All R&D expenditures,36.4,100
+50,2003,All R&D expenditures,41.5,100
+51,2004,All R&D expenditures,44.8,100
+52,2005,All R&D expenditures,47.5,100
+53,2006,All R&D expenditures,49.6,100
+54,2007,All R&D expenditures,51.6,100
+55,2008,All R&D expenditures,54.1,100
+56,2009,All R&D expenditures,57.3,100
+57,2010,All R&D expenditures,61.3,100
+58,2011,All R&D expenditures,65.3,100
+59,2012,All R&D expenditures,65.9,100
+60,2013,All R&D expenditures,67.1,100
+61,2014,All R&D expenditures,67.3,100
+62,2015,All R&D expenditures,68.7,100
+63,2016,All R&D expenditures,71.9,100
+64,2017,All R&D expenditures,75.3,100
+65,2018,All R&D expenditures,79.2,100
+66,2019,All R&D expenditures,83.6,100
+67,2020,All R&D expenditures,86.4,100
+68,2021,All R&D expenditures,89.8,100
+69,2022,All R&D expenditures,97.8,100
+70,1953,Federal government,0.1,54.12
+71,1954,Federal government,0.2,55.17
+72,1955,Federal government,0.2,54.17
+73,1956,Federal government,0.2,57.26
+74,1957,Federal government,0.2,55.85
+75,1958,Federal government,0.3,55.7
+76,1959,Federal government,0.3,58.17
+77,1960,Federal government,0.4,62.69
+78,1961,Federal government,0.5,65.53
+79,1962,Federal government,0.6,67.81
+80,1963,Federal government,0.8,70.31
+81,1964,Federal government,0.9,71.92
+82,1965,Federal government,1.1,72.8
+83,1966,Federal government,1.3,73.53
+84,1967,Federal government,1.4,73.35
+85,1968,Federal government,1.6,73.15
+86,1969,Federal government,1.6,71.91
+87,1970,Federal government,1.6,70.54
+88,1971,Federal government,1.7,68.96
+89,1972,Federal government,1.8,68.25
+90,1973,Federal government,2.0,68.83
+91,1974,Federal government,2.0,67.22
+92,1975,Federal government,2.3,67.12
+93,1976,Federal government,2.5,67.36
+94,1977,Federal government,2.7,67.03
+95,1978,Federal government,3.1,66.14
+96,1979,Federal government,3.6,67.05
+97,1980,Federal government,4.1,67.59
+98,1981,Federal government,4.6,66.76
+99,1982,Federal government,4.8,65.1
+100,1983,Federal government,5.0,63.3
+101,1984,Federal government,5.4,63
+102,1985,Federal government,6.1,62.6
+103,1986,Federal government,6.7,61.42
+104,1987,Federal government,7.3,60.42
+105,1988,Federal government,8.2,60.86
+106,1989,Federal government,9.0,60.04
+107,1990,Federal government,9.6,59.18
+108,1991,Federal government,10.2,58.21
+109,1992,Federal government,11.1,58.95
+110,1993,Federal government,12.0,59.94
+111,1994,Federal government,12.7,60.16
+112,1995,Federal government,13.3,60.13
+113,1996,Federal government,13.8,60.06
+114,1997,Federal government,14.3,58.74
+115,1998,Federal government,15.2,58.6
+116,1999,Federal government,16.1,58.5
+117,2000,Federal government,17.5,58.33
+118,2001,Federal government,19.2,58.62
+119,2002,Federal government,21.9,60.07
+120,2003,Federal government,25.3,61.02
+121,2004,Federal government,28.3,63.12
+122,2005,Federal government,30.0,63.02
+123,2006,Federal government,30.9,62.26
+124,2007,Federal government,31.2,60.56
+125,2008,Federal government,32.1,59.32
+126,2009,Federal government,33.4,58.38
+127,2010,Federal government,37.5,61.15
+128,2011,Federal government,40.8,62.46
+129,2012,Federal government,40.2,61.05
+130,2013,Federal government,39.5,58.87
+131,2014,Federal government,38.0,56.5
+132,2015,Federal government,37.9,55.21
+133,2016,Federal government,38.9,54.06
+134,2017,Federal government,40.3,53.55
+135,2018,Federal government,41.9,52.96
+136,2019,Federal government,44.5,53.25
+137,2020,Federal government,46.2,53.43
+138,2021,Federal government,49.2,54.76
+139,2022,Federal government,54.1,55.25
+140,1953,State and local government,0.0,14.51
+141,1954,State and local government,0.0,14.48
+142,1955,State and local government,0.0,15.06
+143,1956,State and local government,0.1,14.25
+144,1957,State and local government,0.1,14.63
+145,1958,State and local government,0.1,14.91
+146,1959,State and local government,0.1,14.45
+147,1960,State and local government,0.1,13.16
+148,1961,State and local government,0.1,12.45
+149,1962,State and local government,0.1,11.73
+150,1963,State and local government,0.1,10.92
+151,1964,State and local government,0.1,10.35
+152,1965,State and local government,0.1,9.7
+153,1966,State and local government,0.2,9.1
+154,1967,State and local government,0.2,8.54
+155,1968,State and local government,0.2,8
+156,1969,State and local government,0.2,8.85
+157,1970,State and local government,0.2,9.38
+158,1971,State and local government,0.3,10.2
+159,1972,State and local government,0.3,10.27
+160,1973,State and local government,0.3,10.23
+161,1974,State and local government,0.3,10.16
+162,1975,State and local government,0.3,9.74
+163,1976,State and local government,0.4,9.76
+164,1977,State and local government,0.4,9.2
+165,1978,State and local government,0.4,8.95
+166,1979,State and local government,0.5,8.8
+167,1980,State and local government,0.5,8.1
+168,1981,State and local government,0.5,7.97
+169,1982,State and local government,0.6,8.41
+170,1983,State and local government,0.6,7.94
+171,1984,State and local government,0.7,8
+172,1985,State and local government,0.8,7.76
+173,1986,State and local government,0.9,8.37
+174,1987,State and local government,1.0,8.42
+175,1988,State and local government,1.1,8.22
+176,1989,State and local government,1.2,8.17
+177,1990,State and local government,1.3,8.13
+178,1991,State and local government,1.5,8.38
+179,1992,State and local government,1.5,7.92
+180,1993,State and local government,1.6,7.81
+181,1994,State and local government,1.6,7.39
+182,1995,State and local government,1.7,7.62
+183,1996,State and local government,1.8,7.86
+184,1997,State and local government,1.9,7.83
+185,1998,State and local government,1.9,7.52
+186,1999,State and local government,2.0,7.34
+187,2000,State and local government,2.2,7.31
+188,2001,State and local government,2.3,7.07
+189,2002,State and local government,2.5,6.88
+190,2003,State and local government,2.6,6.38
+191,2004,State and local government,2.9,6.42
+192,2005,State and local government,2.9,6.18
+193,2006,State and local government,3.0,5.97
+194,2007,State and local government,3.2,6.11
+195,2008,State and local government,3.4,6.35
+196,2009,State and local government,3.6,6.37
+197,2010,State and local government,3.9,6.34
+198,2011,State and local government,3.9,5.9
+199,2012,State and local government,3.7,5.68
+200,2013,State and local government,3.7,5.52
+201,2014,State and local government,3.9,5.82
+202,2015,State and local government,3.9,5.63
+203,2016,State and local government,4.1,5.64
+204,2017,State and local government,4.2,5.56
+205,2018,State and local government,4.3,5.46
+206,2019,State and local government,4.5,5.4
+207,2020,State and local government,4.6,5.33
+208,2021,State and local government,4.8,5.29
+209,2022,State and local government,4.9,5.03
+210,1953,Institution funds,0.0,13.73
+211,1954,Institution funds,0.0,13.1
+212,1955,Institution funds,0.0,13.14
+213,1956,Institution funds,0.0,11.56
+214,1957,Institution funds,0.0,11.95
+215,1958,Institution funds,0.1,11.62
+216,1959,Institution funds,0.1,11.03
+217,1960,Institution funds,0.1,9.91
+218,1961,Institution funds,0.1,9.17
+219,1962,Institution funds,0.1,8.74
+220,1963,Institution funds,0.1,8.23
+221,1964,Institution funds,0.1,8.08
+222,1965,Institution funds,0.1,8.41
+223,1966,Institution funds,0.1,8.63
+224,1967,Institution funds,0.2,9.42
+225,1968,Institution funds,0.2,10.14
+226,1969,Institution funds,0.2,10.02
+227,1970,Institution funds,0.2,10.41
+228,1971,Institution funds,0.3,10.96
+229,1972,Institution funds,0.3,11.6
+230,1973,Institution funds,0.3,11.03
+231,1974,Institution funds,0.4,12.24
+232,1975,Institution funds,0.4,12.23
+233,1976,Institution funds,0.4,11.96
+234,1977,Institution funds,0.5,12.64
+235,1978,Institution funds,0.6,13.47
+236,1979,Institution funds,0.7,13.7
+237,1980,Institution funds,0.8,13.77
+238,1981,Institution funds,1.0,14.66
+239,1982,Institution funds,1.1,15.17
+240,1983,Institution funds,1.3,16.52
+241,1984,Institution funds,1.4,16.37
+242,1985,Institution funds,1.6,16.69
+243,1986,Institution funds,1.9,17.1
+244,1987,Institution funds,2.2,17.84
+245,1988,Institution funds,2.4,17.5
+246,1989,Institution funds,2.7,18.01
+247,1990,Institution funds,3.0,18.45
+248,1991,Institution funds,3.4,19.14
+249,1992,Institution funds,3.5,18.85
+250,1993,Institution funds,3.6,17.99
+251,1994,Institution funds,3.8,18.2
+252,1995,Institution funds,4.0,18.25
+253,1996,Institution funds,4.2,18.1
+254,1997,Institution funds,4.7,19.27
+255,1998,Institution funds,5.0,19.35
+256,1999,Institution funds,5.4,19.54
+257,2000,Institution funds,5.9,19.69
+258,2001,Institution funds,6.6,20.16
+259,2002,Institution funds,7.1,19.61
+260,2003,Institution funds,7.7,18.48
+261,2004,Institution funds,7.8,17.29
+262,2005,Institution funds,8.3,17.39
+263,2006,Institution funds,9.1,18.25
+264,2007,Institution funds,9.7,18.84
+265,2008,Institution funds,10.4,19.18
+266,2009,Institution funds,11.1,19.46
+267,2010,Institution funds,11.9,19.49
+268,2011,Institution funds,12.6,19.27
+269,2012,Institution funds,13.6,20.68
+270,2013,Institution funds,14.9,22.26
+271,2014,Institution funds,15.7,23.39
+272,2015,Institution funds,16.6,24.19
+273,2016,Institution funds,17.9,24.92
+274,2017,Institution funds,18.9,25.08
+275,2018,Institution funds,20.2,25.54
+276,2019,Institution funds,21.1,25.24
+277,2020,Institution funds,22.0,25.48
+278,2021,Institution funds,22.5,25.02
+279,2022,Institution funds,24.5,25.08
+280,1953,Business,0.0,7.45
+281,1954,Business,0.0,7.59
+282,1955,Business,0.0,8.01
+283,1956,Business,0.0,7.8
+284,1957,Business,0.0,8.29
+285,1958,Business,0.0,8.55
+286,1959,Business,0.0,7.41
+287,1960,Business,0.0,6.19
+288,1961,Business,0.0,5.24
+289,1962,Business,0.0,4.42
+290,1963,Business,0.0,3.79
+291,1964,Business,0.0,3.14
+292,1965,Business,0.0,2.78
+293,1966,Business,0.0,2.45
+294,1967,Business,0.0,2.5
+295,1968,Business,0.1,2.56
+296,1969,Business,0.1,2.7
+297,1970,Business,0.1,2.61
+298,1971,Business,0.1,2.8
+299,1972,Business,0.1,2.81
+300,1973,Business,0.1,2.91
+301,1974,Business,0.1,3.18
+302,1975,Business,0.1,3.31
+303,1976,Business,0.1,3.3
+304,1977,Business,0.1,3.42
+305,1978,Business,0.2,3.68
+306,1979,Business,0.2,3.6
+307,1980,Business,0.2,3.89
+308,1981,Business,0.3,4.25
+309,1982,Business,0.3,4.6
+310,1983,Business,0.4,4.94
+311,1984,Business,0.5,5.51
+312,1985,Business,0.6,5.78
+313,1986,Business,0.7,6.41
+314,1987,Business,0.8,6.5
+315,1988,Business,0.9,6.48
+316,1989,Business,1.0,6.64
+317,1990,Business,1.1,6.92
+318,1991,Business,1.2,6.85
+319,1992,Business,1.3,6.8
+320,1993,Business,1.4,6.82
+321,1994,Business,1.4,6.76
+322,1995,Business,1.5,6.71
+323,1996,Business,1.6,6.97
+324,1997,Business,1.7,7.12
+325,1998,Business,1.9,7.3
+326,1999,Business,2.0,7.38
+327,2000,Business,2.2,7.17
+328,2001,Business,2.2,6.76
+329,2002,Business,2.2,6.02
+330,2003,Business,2.2,5.21
+331,2004,Business,2.1,4.75
+332,2005,Business,2.3,4.82
+333,2006,Business,2.4,4.84
+334,2007,Business,2.7,5.19
+335,2008,Business,2.9,5.3
+336,2009,Business,3.2,5.58
+337,2010,Business,3.2,5.22
+338,2011,Business,3.2,4.88
+339,2012,Business,3.3,4.98
+340,2013,Business,3.5,5.24
+341,2014,Business,3.7,5.55
+342,2015,Business,4.0,5.84
+343,2016,Business,4.2,5.87
+344,2017,Business,4.4,5.9
+345,2018,Business,4.7,5.97
+346,2019,Business,5.1,6.05
+347,2020,Business,5.2,6
+348,2021,Business,5.1,5.7
+349,2022,Business,5.7,5.83
+350,1953,All other sources,0.0,10.2
+351,1954,All other sources,0.0,9.66
+352,1955,All other sources,0.0,9.62
+353,1956,All other sources,0.0,9.14
+354,1957,All other sources,0.0,9.27
+355,1958,All other sources,0.0,9.21
+356,1959,All other sources,0.0,8.94
+357,1960,All other sources,0.1,8.05
+358,1961,All other sources,0.1,7.6
+359,1962,All other sources,0.1,7.3
+360,1963,All other sources,0.1,6.75
+361,1964,All other sources,0.1,6.51
+362,1965,All other sources,0.1,6.31
+363,1966,All other sources,0.1,6.3
+364,1967,All other sources,0.1,6.19
+365,1968,All other sources,0.1,6.14
+366,1969,All other sources,0.1,6.52
+367,1970,All other sources,0.2,7.07
+368,1971,All other sources,0.2,7.08
+369,1972,All other sources,0.2,7.11
+370,1973,All other sources,0.2,7
+371,1974,All other sources,0.2,7.21
+372,1975,All other sources,0.3,7.6
+373,1976,All other sources,0.3,7.64
+374,1977,All other sources,0.3,7.72
+375,1978,All other sources,0.4,7.76
+376,1979,All other sources,0.4,6.86
+377,1980,All other sources,0.4,6.65
+378,1981,All other sources,0.4,6.35
+379,1982,All other sources,0.5,6.7
+380,1983,All other sources,0.6,7.31
+381,1984,All other sources,0.6,7.11
+382,1985,All other sources,0.7,7.16
+383,1986,All other sources,0.7,6.7
+384,1987,All other sources,0.8,6.81
+385,1988,All other sources,0.9,6.94
+386,1989,All other sources,1.1,7.15
+387,1990,All other sources,1.2,7.31
+388,1991,All other sources,1.3,7.43
+389,1992,All other sources,1.4,7.49
+390,1993,All other sources,1.5,7.45
+391,1994,All other sources,1.6,7.49
+392,1995,All other sources,1.6,7.28
+393,1996,All other sources,1.6,7.02
+394,1997,All other sources,1.7,7.02
+395,1998,All other sources,1.9,7.23
+396,1999,All other sources,2.0,7.24
+397,2000,All other sources,2.3,7.5
+398,2001,All other sources,2.4,7.38
+399,2002,All other sources,2.7,7.42
+400,2003,All other sources,2.9,6.89
+401,2004,All other sources,2.9,6.36
+402,2005,All other sources,3.1,6.5
+403,2006,All other sources,3.2,6.44
+404,2007,All other sources,3.5,6.82
+405,2008,All other sources,3.9,7.24
+406,2009,All other sources,4.3,7.5
+407,2010,All other sources,4.8,7.79
+408,2011,All other sources,4.9,7.49
+409,2012,All other sources,5.0,7.6
+410,2013,All other sources,5.4,8.11
+411,2014,All other sources,5.9,8.75
+412,2015,All other sources,6.3,9.14
+413,2016,All other sources,6.8,9.51
+414,2017,All other sources,7.5,9.91
+415,2018,All other sources,8.0,10.07
+416,2019,All other sources,8.4,10.05
+417,2020,All other sources,8.4,9.77
+418,2021,All other sources,8.3,9.23
+419,2022,All other sources,8.6,8.82
