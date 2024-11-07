@@ -12,13 +12,13 @@ import warnings
 from pandas.errors import SettingWithCopyWarning
 warnings.simplefilter(action='ignore', category=(SettingWithCopyWarning))
 
-plot_data=pd.read_csv("C:/Users/shuail/VScode/HERD-app/ExpendituresFrom1953.csv")
+plot_data=pd.read_csv("ExpendituresFrom1953.csv")
 plot_data=plot_data[plot_data['Year']>=2016]
 plot_data=plot_data[plot_data['source']!='All R&D expenditures']
 #st.write(plot_data)
 @st.cache_data
 def type_data():
-    df=pd.read_csv("C:/Users/shuail/VScode/HERD-app/nsf24308-tab009.csv",header=4).rename(columns={"Unnamed: 0":"Year"})
+    df=pd.read_csv("nsf24308-tab009.csv",header=4).rename(columns={"Unnamed: 0":"Year"})
     pie_data=pd.melt(df,id_vars=['Year'],value_vars=df.columns[2:5]).rename(columns={"value": "Expenditures","variable":"source"})
     pie_data['Year']=pie_data['Year'].astype("object")
     return pie_data
@@ -135,12 +135,12 @@ the Department of Energy (DOE) (2.5 billion), the National Aeronautics and Space
 All other federal agencies combined supported 3.6 billion of higher education R&D in FY 2022.""")
 @st.cache_data
 def load_data():
-    df=pd.read_csv("C:/Users/shuail/VScode/HERD-app/FederalAgency.csv")
+    df=pd.read_csv("FederalAgency.csv")
     return df
 FederalAgency=load_data()
 
 def load_data1():
-    df1=pd.read_csv("C:/Users/shuail/VScode/HERD-app/SunAgency.csv")
+    df1=pd.read_csv("SunAgency.csv")
     return df1
 SunAgency=load_data1()
 columns={"Computer and information sciences":"CI","Geosciences, atmospheric sciences, and ocean sciences":"GAO","Mathematics and statistics":"MS",
