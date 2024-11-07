@@ -15,10 +15,10 @@ with col2:
 
 
 def load_data():
-    RF= pd.read_csv("C:/Users/shuail/VScode/HERD-app/RF.csv")
+    RF= pd.read_csv("RF.csv")
     #RF['year']=RF['year'].astype(str)#,encoding='windows-1252').drop(columns='Unnamed: 0')
     #RF_SN=RF[RF['year']==year]
-    FederalAgencyANDSchool= pd.read_csv("C:/Users/shuail/VScode/HERD-app/FederalAgencyANDSchool.csv")
+    FederalAgencyANDSchool= pd.read_csv("FederalAgencyANDSchool.csv")
     return FederalAgencyANDSchool,RF
 #RF_SN=load_data()[0]
 FederalAgencyANDSchool=load_data()[0]
