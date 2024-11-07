@@ -11,7 +11,7 @@ st.header("Expenditure Trend by State")
 
 @st.cache_data
 def load_data():
-    data=pd.read_csv("C:/Users/shuail/VScode/HERD-app/ByState.csv")
+    data=pd.read_csv("ByState.csv")
     return data
 df=load_data()
 
@@ -37,7 +37,7 @@ st.plotly_chart(fig)
 
 
 on = st.toggle('Compare with EPSCoR map')
-ESPCoR = Image.open(r"C:/Users/shuail/VScode/HERD-app/EPSCoR.JPG")
+ESPCoR = Image.open(r"EPSCoR.jpg")
 if on:
      st.image(ESPCoR)    #st.write("Rank by All R&D expenditures ")
      st.markdown("""
