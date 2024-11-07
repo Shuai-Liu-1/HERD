@@ -74,10 +74,10 @@ state= {
     "Virgin Islands": "VI",}
     #"United States Minor Outlying Islands": "UM",}
 def load_data():
-    RF= pd.read_csv("C:/Users/shuail/VScode/HERD-app/RF.csv")
+    RF= pd.read_csv("RF.csv")
     RF['year']=RF['year'].astype(str)#,encoding='windows-1252').drop(columns='Unnamed: 0')
     #RF_SN=RF[RF['year']==year]
-    SF_SN= pd.read_csv("C:/Users/shuail/VScode/HERD-app/SF2022.csv").drop(columns='Unnamed: 0')
+    SF_SN= pd.read_csv("SF2022.csv").drop(columns='Unnamed: 0')
     return SF_SN,RF
 #RF_SN=load_data()[0]
 SF_SN=load_data()[0]
